@@ -1,0 +1,12 @@
+No;Course ID;Course Name;Class;Lecturer Account;Start Date;End Date;Day of Week;Start Hour;End Hour;Room
+1;CTT008;Programming Techniques(LT);18CLC6;Nguyen Hai Minh;07-01-2019;13-04-2019;Wed;8:00;11:00;F111
+2;CTT008;Programming Techniques(TH);18CLC6;Ho Tuan Thanh;14-01-2019;13-04-2019;Tues;13:30;15:30;I61
+3;CTT010;Introduction to IT (LT);18CLC6;Le Thi Nhan;07-01-2019;13-04-2019;Tues;15:30;17:10;I41
+3;CTT010;Introduction to IT (LT);18CLC6;Le Thi Nhan;07-01-2019;13-04-2019;Thur;15:30;17:10;I44
+4;CTT010;Introduction to IT (TH);18CLC6;Luong Vi Minh;07-01-2019;13-04-2019;Mon;9:30;11:30;I61
+5;TTH026;Calculus B1(LT);18CLC6;Nguyen Tan Trung;07-01-2019;13-04-2019;Mon;7:30;9:10;I44
+5;TTH026;Calculus B1(LT);18CLC6;Nguyen Tan Trung;07-01-2020;13-04-2020;Sat;9:30;11:10;I44
+6;TTH026;Calculus B1(TH);18CLC6;Nguyen Tan Trung;07-01-2021;13-04-2021;Fri;15:30;17:30;I32
+7;KTH001;General economic;18CLC6;Huynh Thi Ly Na;07-01-2022;13-04-2022;Thur;7:30;11:10;B11
+8;CTH001;"Fundamental principles of 
+Marxism and Leninism";18CLC6;Le Vo Thanh Lam;07-01-2023;13-04-2023;Sat;13:30;17:10;I42
