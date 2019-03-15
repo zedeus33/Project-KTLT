@@ -82,4 +82,16 @@ int timeTable::InputTimeTable(const char *path)
 	}
 	file.close();
 	return 1;
+
+=======
+}
+
+
+
+void main()
+{
+	timeTable c18clc6;
+	c18clc6.InputTimeTable("C:/Users/USER/Documents/18CLC6.csv");
+	_getch();
+
 }
